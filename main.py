@@ -3,7 +3,7 @@ def main():
 
 
 def test_main():
-  print("Test: Hello, World v1!")
+  print("Test: Hello, World v1!"
 
 
 if __name__ == "__main__":
